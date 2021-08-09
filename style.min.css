@@ -557,6 +557,9 @@ p {
   font-weight: 400;
   color: #575757 !important;
 }
+h4 {
+  font-style: italic;
+}
 .container {
   max-width: 1000px;
 }
