@@ -1149,7 +1149,7 @@ a:focus {
 .thumbnail a > img,
 .thumbnail > img {
   display: block;
-  max-width: 100%;
+  width: 270px;
   height: auto;
 }
 .img-rounded {
@@ -1643,6 +1643,8 @@ pre code {
 .row {
   margin-right: -15px;
   margin-left: -15px;
+  display: flex;
+  justify-content: center;
 }
 .col-lg-1,
 .col-lg-10,
