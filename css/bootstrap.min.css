@@ -1643,9 +1643,8 @@ pre code {
 .row {
   margin-right: -15px;
   margin-left: -15px;
-
-  .footer-li {
-  }
+}
+.footer-li {
   margin-right: -15px;
   margin-left: -15px;
   display: flex;
