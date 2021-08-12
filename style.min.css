@@ -1,5 +1,6 @@
 .logo {
   height: 100px;
+  width: 100px;
 }
 footer li {
   padding: 2px;
@@ -640,6 +641,8 @@ h3 {
 }
 .portfolio-thumb {
   margin-bottom: 24px;
+  width: 270px;
+  height: 270px;
 }
 .portfolio-row {
   margin-bottom: 44px;
