@@ -1,6 +1,9 @@
 .logo {
   height: 100px;
 }
+footer li {
+  padding: 2px;
+}
 a,
 button {
   outline: 0 !important;
