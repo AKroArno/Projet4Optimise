@@ -749,6 +749,10 @@ h3 {
   .bloc-fill-screen .fill-bloc-top-edge {
     padding: 0 20px;
   }
+  .social {
+    display: flex;
+    justify-content: space-around;
+  }
 }
 @media (max-width: 767px) {
   .page-container {

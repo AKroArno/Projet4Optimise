@@ -1144,8 +1144,8 @@ a:focus {
 .thumbnail a > img,
 .thumbnail > img {
   display: block;
-  width: 270px;
   height: auto;
+  margin: auto;
 }
 .img-rounded {
   border-radius: 6px;
